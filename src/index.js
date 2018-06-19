@@ -34,7 +34,7 @@ class App extends React.Component {
   render() {
     return (
       <React.Fragment>
-        <header className="has-background-primary has-margin-bottom has-padding">
+        <header className="has-background-primary has-margin-bottom has-horizontal-padding">
           <h1 className="title is-size-1 has-text-light has-text-centered has-text-weight-bold">
             ChocoTimer{" "}
             <span role="img" aria-label="tada">
