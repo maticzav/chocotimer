@@ -3,9 +3,9 @@
 }
 
 .has-padding {
-  padding: 5rem !important;
+  padding: 5rem 0 !important;
 }
 
 .has-little-padding {
-  padding: 3rem !important;
+  padding: 3rem 0 !important;
 }
