@@ -78,6 +78,7 @@ class App extends React.Component {
             </div>
           </div>
         </main>
+
         <footer className="footer has-little-padding">
           <div className="">
             <div className="content has-text-centered">
