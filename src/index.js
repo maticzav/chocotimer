@@ -2,7 +2,7 @@ import React from "react"
 import ReactDOM from "react-dom"
 
 import "bulma/css/bulma.css"
-import "../public/styles.css"
+import "./styles.css"
 
 class App extends React.Component {
   constructor(props) {
