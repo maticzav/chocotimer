@@ -4,7 +4,7 @@
 
 ## Preview
 
-__[CocoaTimer](https://cocoatimer.now.sh)__
+__[ChocoTimer](https://chocotimer.now.sh)__
 
 ## License
 MIT @ Matic Zavadlal
